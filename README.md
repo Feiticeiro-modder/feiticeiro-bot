@@ -1,1 +1,1 @@
-# feiticeiro-bot
+# bruxinho-bot
